@@ -1,0 +1,13 @@
+{
+  "name": "delf-assistant-copilot-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/delf/score.js"
+  },
+  "dependencies": {
+    "docx": "^9.1.0"
+  }
+}
