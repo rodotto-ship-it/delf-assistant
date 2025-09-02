@@ -1,0 +1,55 @@
+{
+  "niveau": "B2",
+  "public": "tp",
+  "sujet": 6,
+  "co_ecoutes": 2,
+  "cle": {
+    "CO": {
+      "EX1": [
+        {
+          "q": 1,
+          "correct": "C",
+          "points": 1.0
+        },
+        {
+          "q": 2,
+          "correct": "B",
+          "points": 1.0
+        }
+      ]
+    },
+    "CE": {
+      "A": [
+        {
+          "q": 0,
+          "correct": "A",
+          "points": 1.5
+        }
+      ]
+    }
+  },
+  "reponses": {
+    "CO": {
+      "EX1": {
+        "1": "C",
+        "2": "B"
+      }
+    },
+    "CE": {
+      "A": {
+        "0": "A"
+      }
+    }
+  },
+  "pe": {
+    "tache": 3.5,
+    "adequation": 3.0,
+    "lexique": 2.5,
+    "syntax_grammaire": 1.5,
+    "orthographe_ponctuation": 1.5
+  },
+  "meta": {
+    "nom_candidat": "\u00c9l\u00e8ve B2",
+    "date": "2025-08-31"
+  }
+}

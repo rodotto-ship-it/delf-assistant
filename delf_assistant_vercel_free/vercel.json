@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "functions": {
+    "api/delf/score.js": {
+      "runtime": "nodejs18.x",
+      "memory": 256
+    }
+  },
+  "routes": [
+    {
+      "src": "/api/delf/score",
+      "dest": "/api/delf/score.js"
+    }
+  ]
+}
